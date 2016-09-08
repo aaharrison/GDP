@@ -1,0 +1,42 @@
+html{
+	background-color: #e0e0e0;
+}
+
+#header{
+	background-color: #616161;
+	border-width: 10px;
+	border-color: #424242;
+	border-radius: 10px;
+	height: 50px;
+}
+
+h2{
+	font-family:"Lucida Console" ;
+	font-weight: 900px;
+	vertical-align: middle;
+	line-height: 50px;
+	margin-left: 5px;
+}
+
+p{
+	font-family: "Lucida Console";
+	font-weight: 900px;
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+#detailValue{
+	font-size: 14px;
+	margin-left: 20px;
+}
+
+#explain{
+	font-size: 8.5px;
+	margin-top: 0px;
+	margin-left: 20px;
+}
+
+#viz{
+	margin-top: 10px;
+	height: 500px;
+}
