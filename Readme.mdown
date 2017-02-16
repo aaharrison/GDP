@@ -1,5 +1,0 @@
-Hello! I'm Niyi a member of the GA data science class
-
-I like tacos!
-
-<iframe src="//giphy.com/embed/fvLTnKMAhp1hm" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/taco-bell-neck-syndrome-fvLTnKMAhp1hm">via GIPHY</a></p>
