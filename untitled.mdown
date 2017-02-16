@@ -1,5 +1,0 @@
-Hello! I'm Niyi a member of the GA data science class
-
-I like tacos!
-
-<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
