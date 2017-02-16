@@ -1,0 +1,5 @@
+Hello! I'm Niyi a member of the GA data science class
+
+I like tacos!
+
+<img src="//giphy.com/embed/fvLTnKMAhp1hm" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen/>
